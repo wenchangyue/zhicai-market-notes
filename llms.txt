@@ -1,0 +1,30 @@
+# 智财小站｜美股趋势交易笔记
+
+> 智财小站的公开中文资料库，包含美股趋势交易、AI 辅助筛选、风险控制、周末市场快报，以及人工校对的公开视频逐字稿。
+
+站点：https://wenchangyue.github.io/zhicai-market-notes/
+YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
+作者：Wenchang Yue（老岳）
+语言：简体中文
+更新日期：2026-07-13
+
+## 主要页面
+
+- [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
+- [美股周末快报如何使用新闻](https://wenchangyue.github.io/zhicai-market-notes/weekend-briefing/)
+- [关于作者、资料和风险声明](https://wenchangyue.github.io/zhicai-market-notes/about/)
+- [全部公开视频文字版](https://wenchangyue.github.io/zhicai-market-notes/)
+
+## 内容规则
+
+- 候选池不是买入清单。
+- 行情与新闻数字需要数据日期或快照时间。
+- 事实、市场反应和分析推断分开表述。
+- 趋势交易按价格失效退出；长期投资按长期逻辑重估。
+- 内容仅供教育与研究，不构成个性化投资建议。
+
+## 公开视频文字版
+
+- [新闻没改趋势，为什么周一也别急着买？](https://wenchangyue.github.io/zhicai-market-notes/episodes/weekend-news-entry-point/)
+- [被止损后还能再买回来吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/stop-and-reentry/)
+- [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)

@@ -1,0 +1,35 @@
+title: 智财小站｜美股趋势交易笔记
+description: >-
+  智财小站的公开文字资料库：美股趋势交易、AI 辅助筛选、风险控制、周末市场快报，以及校对后的公开视频逐字稿。
+author: Wenchang Yue（老岳）
+lang: zh-CN
+timezone: America/New_York
+url: "https://wenchangyue.github.io"
+baseurl: "/zhicai-market-notes"
+youtube_channel: "https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA"
+repository_url: "https://github.com/wenchangyue/zhicai-market-notes"
+
+markdown: kramdown
+
+collections:
+  episodes:
+    output: true
+    permalink: /episodes/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+  - scope:
+      path: ""
+    values:
+      image: /assets/avatar.png
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - TEMPLATE-episode.md

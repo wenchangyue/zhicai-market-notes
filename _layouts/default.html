@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}｜{{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_newlines | truncate: 300 }}">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | strip_newlines | truncate: 300 }}">
+  <meta property="og:type" content="{% if page.video_id %}video.other{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ page.image | default: '/assets/avatar.png' | absolute_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <style>
+    :root { --ink:#eaf2f7; --muted:#91a4b5; --line:#293746; --teal:#22d3ee;
+      --amber:#fbbf24; --red:#fb7185; --green:#4ade80; --bg:#081018; --panel:#111c28; }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); background:var(--bg);
+      background-image:radial-gradient(circle at 70% -15%,#183147 0,transparent 40%);
+      font:17px/1.72 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",
+      "Hiragino Sans GB","Microsoft YaHei",sans-serif; -webkit-text-size-adjust:100%; }
+    .wrap { max-width:920px; margin:0 auto; padding:1.2rem 1.2rem 4rem; }
+    header { display:flex; align-items:center; justify-content:space-between; gap:1rem;
+      border-bottom:1px solid var(--line); padding-bottom:1rem; margin-bottom:2.2rem; }
+    .brand { color:var(--ink); font-weight:800; text-decoration:none; display:flex;
+      align-items:center; gap:.75rem; }
+    .brand img { width:44px; height:44px; border-radius:12px; }
+    nav { display:flex; flex-wrap:wrap; gap:.85rem; font-size:.9rem; }
+    nav a { color:var(--muted); text-decoration:none; }
+    h1 { font-size:clamp(2rem,6vw,3.7rem); line-height:1.12; margin:.25rem 0 1.1rem; }
+    h2 { font-size:1.42rem; margin:2.25rem 0 .7rem; }
+    h3 { font-size:1.08rem; margin:1.45rem 0 .45rem; }
+    a { color:var(--teal); }
+    strong { color:#fff; }
+    .lede { color:var(--muted); font-size:1.08rem; max-width:760px; }
+    .primary-link { display:inline-block; background:var(--teal); color:#051018;
+      padding:.72rem 1rem; border-radius:999px; font-weight:800; text-decoration:none; }
+    .quick-answer { border:1px solid var(--line); border-left:4px solid var(--teal);
+      background:var(--panel); border-radius:10px; padding:1rem 1.15rem; margin:1.4rem 0; }
+    .quick-answer h2 { margin:.1rem 0 .55rem; font-size:1.02rem; color:var(--teal); }
+    .meta,.eyebrow { color:var(--muted); font-size:.88rem; }
+    .episode-list { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1rem; }
+    .episode-card { border:1px solid var(--line); border-radius:12px; background:var(--panel);
+      padding:1rem 1.05rem; }
+    .episode-card h2 { margin:.15rem 0 .45rem; font-size:1.12rem; }
+    .episode-card p { margin:.45rem 0; }
+    .watch { display:inline-block; font-weight:700; margin:.2rem 0 1.1rem; }
+    .video { position:relative; padding-bottom:56.25%; height:0; overflow:hidden;
+      border:1px solid var(--line); border-radius:12px; margin:1rem 0 1.5rem; }
+    .video iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
+    .note { border-left:3px solid var(--amber); padding:.25rem 1rem; color:var(--muted); }
+    .risk { border-left-color:var(--red); }
+    blockquote { margin:1.2rem 0; padding:.2rem 1rem; border-left:3px solid var(--teal);
+      color:var(--muted); }
+    footer { border-top:1px solid var(--line); margin-top:3rem; padding-top:1rem;
+      color:var(--muted); font-size:.86rem; }
+    code { background:#182534; padding:.1em .35em; border-radius:4px; }
+    img { max-width:100%; height:auto; }
+    @media (max-width:650px) { body{font-size:16px}.wrap{padding-inline:1rem}header{align-items:flex-start;flex-direction:column} }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/avatar.png' | relative_url }}" alt="智财小站头像">{{ site.title }}</a>
+      <nav aria-label="主要导航">
+        <a href="{{ '/trend-trading/' | relative_url }}">趋势交易</a>
+        <a href="{{ '/weekend-briefing/' | relative_url }}">周末快报</a>
+        <a href="{{ '/about/' | relative_url }}">关于与声明</a>
+        <a href="{{ site.youtube_channel }}">YouTube</a>
+      </nav>
+    </header>
+    <main>{{ content }}</main>
+    <footer>
+      <p>作者：{{ site.author }}。本站整理智财小站的公开视频、逐字稿和交易框架。内容仅供教育与研究，不构成个性化投资建议、证券推荐或收益承诺。市场有风险，请独立判断。</p>
+      <p><a href="{{ '/llms.txt' | relative_url }}">llms.txt</a> · <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a> · <a href="{{ site.repository_url }}">GitHub 源码</a></p>
+    </footer>
+  </div>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | append: site.baseurl | append: '/' | jsonify }},
+    "description": {{ site.description | strip_newlines | jsonify }},
+    "inLanguage": "zh-CN",
+    "publisher": {
+      "@type": "Organization",
+      "name": "智财小站",
+      "url": {{ site.url | append: site.baseurl | append: '/' | jsonify }},
+      "sameAs": [{{ site.youtube_channel | jsonify }}, {{ site.repository_url | jsonify }}]
+    }
+  }
+  </script>
+</body>
+</html>
