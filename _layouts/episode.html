@@ -10,6 +10,8 @@ layout: default
   <p class="watch">▶ <a href="{{ page.youtube_url }}">在 YouTube 观看</a></p>
   {% endif %}
   {% if page.quick_answer %}<section class="quick-answer"><h2>简要回答</h2>{{ page.quick_answer | markdownify }}</section>{% endif %}
+  {% if page.scope %}<section><h2>适用前提</h2>{{ page.scope | markdownify }}</section>{% endif %}
+  {% if page.holdings_disclosure %}<p class="meta">{{ page.holdings_disclosure }}</p>{% endif %}
   {{ content }}
   {% if page.faq %}
   <section class="faq"><h2>常见问题</h2>
