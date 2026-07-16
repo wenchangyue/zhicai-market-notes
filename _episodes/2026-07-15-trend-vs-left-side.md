@@ -3,10 +3,10 @@ layout: episode
 title: 为什么趋势交易相对最安全？
 description: 基本面、消息面、宏观全都算不清。趋势交易用一个动作把它们全部处理掉——止损。代价是先天吃不到全程，但那是可调的代价。
 format: YouTube 长视频文字版
-published: false
+published: true
 topic: 趋势交易方法论
-video_id: PENDING
-youtube_url: PENDING
+video_id: yxG-UAKg11c
+youtube_url: https://youtu.be/yxG-UAKg11c
 upload_date: 2026-07-16
 updated_date: 2026-07-16
 duration: PT10M08S
