@@ -6,8 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-07-14
-
+更新日期：2026-07-16
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -26,7 +25,8 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 ## 公开视频文字版
 
 <!-- AUTO-COMPANION-PAGES:START -->
+- [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
+- [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 - [新闻没改趋势，为什么周一也别急着买？](https://wenchangyue.github.io/zhicai-market-notes/episodes/weekend-news-entry-point/)
 - [被止损后还能再买回来吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/stop-and-reentry/)
-- [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 <!-- AUTO-COMPANION-PAGES:END -->
