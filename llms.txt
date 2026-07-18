@@ -26,7 +26,6 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 
 <!-- AUTO-COMPANION-PAGES:START -->
 - [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
-- [为什么趋势交易相对最安全？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-trend-vs-left-side/)
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 - [新闻没改趋势，为什么周一也别急着买？](https://wenchangyue.github.io/zhicai-market-notes/episodes/weekend-news-entry-point/)
 - [管理风险，趋势交易可能是最简单的办法](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-17-trend-simplest-risk/)
