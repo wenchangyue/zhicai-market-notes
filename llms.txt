@@ -25,6 +25,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 ## 公开视频文字版
 
 <!-- AUTO-COMPANION-PAGES:START -->
+- [ASTS 两个月腰斩：手机直连卫星的真实财务、和星链的差距、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-20-asts-deep-dive/)
 - [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
 - [SpaceX 上市一个月就破发：财务真相、华尔街分歧、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-18-spacex-deep-dive/)
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)

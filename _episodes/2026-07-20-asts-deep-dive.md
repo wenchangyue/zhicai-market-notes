@@ -3,7 +3,7 @@ layout: episode
 title: ASTS 两个月腰斩：手机直连卫星的真实财务、和星链的差距、普通人怎么办
 description: AST SpaceMobile（ASTS）5 月 28 日盘中 133.86 美元，7 月 17 日收 57.80，回撤 56.6%。拆三重利空（Q1 营收 miss、发射推迟到 2027、年内第二笔 10 亿美元可转债）、大天线与频谱是不是护城河、国防 1510 亿资格池的水分、投行 41-108 美元的估值分歧，最后按趋势交易规则讲普通人的应对。
 format: YouTube 长视频文字版
-published: false
+published: true
 topic: 个股深度报告
 duration: PT18M6S
 data_as_of: 2026-07-17
@@ -54,6 +54,10 @@ sources:
   - 投行：BofA 报告原文 PDF（astsinvestors.com 存档）、Investing.com / TipRanks / MarketBeat / stockanalysis（评级与目标价）
   - 星链分部数字：SpaceX 深度报告一期已核实口径（收入 113.9 亿 / EBITDA 71.7 亿 / 用户 1030 万）
   - 价格与技术指标：yfinance（2026-07-17 收盘），EMA/RSI/ATR 自算
+video_id: I4hMGFVk86Q
+youtube_url: https://youtu.be/I4hMGFVk86Q
+upload_date: 2026-07-19
+updated_date: 2026-07-19
 ---
 ## 适用前提
 
