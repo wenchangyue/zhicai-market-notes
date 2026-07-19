@@ -3,9 +3,9 @@ layout: episode
 title: SpaceX 上市一个月就破发：财务真相、华尔街分歧、普通人怎么办
 description: SPCX 发行价 135 美元，一个月内冲到 225.64 又跌到 123.99。拆招股书财务（星链年赚 44 亿美元、AI 分部亏 63.5 亿）、19 份投行首覆（目标价 115–800）、逐段复盘暴跌原因，最后按趋势交易规则讲普通人的应对。
 format: YouTube 长视频文字版
-published: true
+published: false
 topic: 个股深度报告
-duration: PT23M13S
+duration: PT23M48S
 data_as_of: 2026-07-17
 quick_answer: >-
   SpaceX（SPCX）2026-06-12 上市，发行价 135 美元，第四个交易日盘中 225.64，
@@ -50,10 +50,6 @@ sources:
   - Motley Fool / Yahoo Finance / Benzinga / Investing.com（19 家投行首覆与目标价）
   - Investing.com / Motley Fool（锁定期结构）
   - Barchart（期权）、Financer（散户配售）、Al Jazeera / Forbes（6-22/23 抛售）
-video_id: cVQH-pfEgKA
-youtube_url: https://youtu.be/cVQH-pfEgKA
-upload_date: 2026-07-19
-updated_date: 2026-07-19
 ---
 ## 适用前提
 
