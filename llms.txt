@@ -25,6 +25,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 ## 公开视频文字版
 
 <!-- AUTO-COMPANION-PAGES:START -->
+- [AI 开源大战全是生意｜喊开源的、死不开的、卖铲子的，各打什么算盘](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-25-open-vs-closed-ai/)
 - [ASTS 两个月腰斩：手机直连卫星的真实财务、和星链的差距、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-20-asts-deep-dive/)
 - [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
 - [KRYS 一年三倍还创新高：一家真赚钱的基因治疗公司，为什么价格只能当参考](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-21-krys-deep-dive/)
