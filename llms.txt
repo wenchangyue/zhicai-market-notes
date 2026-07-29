@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-07-25
+更新日期：2026-07-29
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -30,6 +30,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
 - [KRYS 一年三倍还创新高：一家真赚钱的基因治疗公司，为什么价格只能当参考](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-21-krys-deep-dive/)
 - [SpaceX 上市一个月就破发：财务真相、华尔街分歧、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-18-spacex-deep-dive/)
+- [内存暴跌全解析｜闪迪一年55倍一个月腰斩，韩国36万户爆仓，杀到哪算完？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-29-memory-deleveraging/)
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 - [实盘日记｜换掉磨了一个月的死钱，买入一只不跟大盘走的药](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-23-eton-swap/)
 - [币没跌，MSTR 却崩了 77%｜比特币的杠杆，和下半年会不会有行情](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-24-crypto-h2-outlook/)
