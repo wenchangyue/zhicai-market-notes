@@ -12,8 +12,8 @@ description: 美股趋势交易、AI 辅助筛选、风险控制和周末市场�
 
 ## 这里提供什么
 
-- **公开逐字稿**：与最终视频和中文字幕保持一致。
-- **简要回答**：先给结论，再写适用条件和原因。
+- **公开逐字稿**：与最终视频和中文字幕保持一致，全部收录在[视频文字版目录]({{ '/episodes/' | relative_url }})，按主题归类。
+- **简要回答**：每页开头给出结论、适用条件和原因。
 - **方法页**：解释趋势、入场、止损、仓位和 AI 各自负责什么。
 - **来源与日期**：行情和新闻都标注时间；无法核实的内容不会写成事实。
 
@@ -23,17 +23,7 @@ description: 美股趋势交易、AI 辅助筛选、风险控制和周末市场�
 - [美股周末快报如何使用新闻]({{ '/weekend-briefing/' | relative_url }})
 - [关于作者、资料和风险声明]({{ '/about/' | relative_url }})
 
-## 公开视频文字版
-
-{% assign sorted_episodes = site.episodes | sort: "upload_date" | reverse %}
-<div class="episode-list">
-{% for ep in sorted_episodes %}
-  <article class="episode-card">
-    <p class="eyebrow">{{ ep.format }} · {{ ep.upload_date }}</p>
-    <h2><a href="{{ ep.url | relative_url }}">{{ ep.title }}</a></h2>
-    <p>{{ ep.description }}</p>
-  </article>
-{% endfor %}
-</div>
+{% assign latest = site.episodes | sort: "upload_date" | last %}
+最近更新：{{ latest.upload_date }} · [{{ latest.title }}]({{ latest.url | relative_url }})　·　[全部文字版 →]({{ '/episodes/' | relative_url }})
 
 <p class="note risk">候选池不是买入清单。本站不提供个性化投资建议，也不承诺任何收益。</p>
