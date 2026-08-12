@@ -7,7 +7,7 @@ format: YouTube 长视频文字版
 topic: AI 基础设施融资
 video_id: S5IIa-BJ0qA
 upload_date: 2026-08-12
-duration: PT8M0S
+duration: PT8M1S
 data_as_of: 2026-08-11
 quick_answer: >-
   NVIDIA 与 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR 共 6 家机构签署了
