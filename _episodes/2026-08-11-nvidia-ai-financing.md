@@ -71,8 +71,6 @@ chapters:
     start: 426
   - name: 总体判断
     start: 451
-youtube_url: https://youtu.be/S5IIa-BJ0qA
-updated_date: 2026-08-12
 ---
 ## 逐字稿
 
