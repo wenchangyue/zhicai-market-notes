@@ -6,7 +6,9 @@ description: "英伟达与六家金融机构签署的是 AI 算力融资 MOU，�
 format: YouTube 长视频文字版
 topic: AI 基础设施融资
 video_id: S5IIa-BJ0qA
-upload_date: 2026-08-12
+youtube_url: https://youtu.be/S5IIa-BJ0qA
+upload_date: 2026-08-11
+updated_date: 2026-08-11
 duration: PT8M1S
 data_as_of: 2026-08-11
 quick_answer: >-
