@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-08-13
+更新日期：2026-08-14
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -33,6 +33,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [SpaceX 上市一个月就破发：财务真相、华尔街分歧、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-18-spacex-deep-dive/)
 - [SUI 核心人物称将加入 Anthropic：人才流失，还是 AI 支付机会？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-12-sui-anthropic-altcoins-v2/)
 - [SUI 背后的 Move 语言作者发文称将加入 Anthropic：山寨币还有机会吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-12-sui-anthropic-altcoins/)
+- [全世界 All in AI：它真是第四次工业革命吗？科技树点错了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-14-ai-fourth-industrial-revolution/)
 - [内存暴跌全解析｜闪迪一年55倍一个月腰斩，韩国36万户爆仓，杀到哪算完？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-29-memory-deleveraging/)
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 - [实盘日记｜换掉磨了一个月的死钱，买入一只不跟大盘走的药](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-23-eton-swap/)
