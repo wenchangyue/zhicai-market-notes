@@ -69,6 +69,10 @@ chapters:
 video_id: 1IrTD3rQqe4
 youtube_url: https://youtu.be/1IrTD3rQqe4
 ---
+## 持仓披露
+
+本期不涉及个人持仓，不是实盘操作记录。
+
 ## 逐字稿
 
 # 美国消费突然降温，为什么不能直接押注降息？
