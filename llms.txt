@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-08-16
+更新日期：2026-08-19
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -26,6 +26,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 
 <!-- AUTO-COMPANION-PAGES:START -->
 - [AI 开源大战全是生意｜喊开源的、死不开的、卖铲子的，各打什么算盘](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-25-open-vs-closed-ai/)
+- [AIR（AAR）登顶趋势筛选：不造飞机，它靠卖零件和维修赚钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-17-air-vcp-pp/)
 - [ASTS 两个月腰斩：手机直连卫星的真实财务、和星链的差距、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-20-asts-deep-dive/)
 - [ETON财报后盘后涨24%：为什么持有和新买是两道题？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-13-eton-earnings-gap/)
 - [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
