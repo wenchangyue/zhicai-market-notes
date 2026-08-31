@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-08-22
+更新日期：2026-08-31
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -38,6 +38,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [全世界 All in AI：它真是第四次工业革命吗？科技树点错了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-14-ai-fourth-industrial-revolution/)
 - [内存暴跌全解析｜闪迪一年55倍一个月腰斩，韩国36万户爆仓，杀到哪算完？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-29-memory-deleveraging/)
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
+- [四家联储要求加息：美联储真的转鹰了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/fed-discount-rate-votes/)
 - [实盘日记｜换掉磨了一个月的死钱，买入一只不跟大盘走的药](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-23-eton-swap/)
 - [巴菲特、段永平、索罗斯、ARK最新13F：AI没退潮，持仓在换方向](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-16-superinvestor-13f-q2/)
 - [币没跌，MSTR 却崩了 77%｜比特币的杠杆，和下半年会不会有行情](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-24-crypto-h2-outlook/)
