@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-08-31
+更新日期：2026-09-01
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -43,6 +43,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [巴菲特、段永平、索罗斯、ARK最新13F：AI没退潮，持仓在换方向](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-16-superinvestor-13f-q2/)
 - [币没跌，MSTR 却崩了 77%｜比特币的杠杆，和下半年会不会有行情](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-24-crypto-h2-outlook/)
 - [我同一天买了两只股票，一只按系统，一只按逻辑｜实盘拆解 NTAP 与海力士](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-04-two-buys/)
+- [戴尔AI服务器订单609亿美元：利润真变厚了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-01-dell-ai-server-orders/)
 - [新闻没改趋势，为什么周一也别急着买？](https://wenchangyue.github.io/zhicai-market-notes/episodes/weekend-news-entry-point/)
 - [比特币突破7.5万美元：谁在买？加密为什么突然涨这么多](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-21-crypto-rally-drivers/)
 - [特斯拉财报解读｜卖得最多的一季，利润却塌了，股价一天跌 14%](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-23-tesla-q2-earnings/)
