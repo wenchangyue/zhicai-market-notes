@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-09-23
+更新日期：2026-09-24
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -25,6 +25,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 ## 公开视频文字版
 
 <!-- AUTO-COMPANION-PAGES:START -->
+- [10 年期美债收益率 5.18%，2007 年以来最高：股市为什么怕它，趋势交易怎么应对](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-24-long-yields-2007-high/)
 - [AI 开源大战全是生意｜喊开源的、死不开的、卖铲子的，各打什么算盘](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-25-open-vs-closed-ai/)
 - [AIR（AAR）登顶趋势筛选：不造飞机，它靠卖零件和维修赚钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-17-air-vcp-pp/)
 - [AI扩建电网，谁来付账？美国众院法案背后的投资逻辑](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-20-ai-power-costs/)
