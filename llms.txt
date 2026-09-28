@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-09-26
+更新日期：2026-09-27
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -34,6 +34,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
 - [KNSA深度分析：收入涨55%，利润为什么要分一半？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-02-knsa-deep-dive/)
 - [KRYS 一年三倍还创新高：一家真赚钱的基因治疗公司，为什么价格只能当参考](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-21-krys-deep-dive/)
+- [OpenAI 暂停最强模型训练：“全网植入自我复制提示词”说过头了，AI 算力链会被打断吗](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-27-openai-training-pause/)
 - [SK hynix 40万亿回购：AI内存赚到的钱给了谁？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-20-skhynix-cash-allocation/)
 - [Solidigm 考虑美国上市、估值最高 1500 亿美元：对 SK 海力士股东是好是坏](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-26-solidigm-ipo-skhy/)
 - [SpaceX 上市一个月就破发：财务真相、华尔街分歧、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-18-spacex-deep-dive/)
