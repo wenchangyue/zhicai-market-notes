@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-09-27
+更新日期：2026-09-28
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -45,6 +45,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 - [四家联储要求加息：美联储真的转鹰了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/fed-discount-rate-votes/)
 - [实盘日记｜换掉磨了一个月的死钱，买入一只不跟大盘走的药](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-23-eton-swap/)
+- [局势紧张，黄金却跌了将近 4%：避险资产这次为什么不避险](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-28-gold-selloff-real-yields/)
 - [巴菲特、段永平、索罗斯、ARK最新13F：AI没退潮，持仓在换方向](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-16-superinvestor-13f-q2/)
 - [币没跌，MSTR 却崩了 77%｜比特币的杠杆，和下半年会不会有行情](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-24-crypto-h2-outlook/)
 - [我同一天买了两只股票，一只按系统，一只按逻辑｜实盘拆解 NTAP 与海力士](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-04-two-buys/)
