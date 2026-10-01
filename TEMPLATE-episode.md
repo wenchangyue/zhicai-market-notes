@@ -14,7 +14,7 @@ quick_answer: >-
   先给结论，再写适用条件和原因。
 scope: >-
   写明数据截止日期、方法边界和内容适用前提。
-holdings_disclosure: "持仓披露：未提供。"
+holdings_disclosure: "作者可能持有本视频提及的证券；内容不构成投资建议。"
 faq:
   - q: 问题一？
     a: 回答一。
