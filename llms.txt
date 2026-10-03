@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-10-01
+更新日期：2026-10-02
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -57,6 +57,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [特斯拉财报解读｜卖得最多的一季，利润却塌了，股价一天跌 14%](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-23-tesla-q2-earnings/)
 - [管理风险，趋势交易可能是最简单的办法](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-17-trend-simplest-risk/)
 - [美债收益率创2002年来新高后掉头：利率最紧的时候过去了吗](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-01-fed-pause-yields-2002-high/)
+- [美国9月非农只增2.9万：就业要崩了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-02-sept-jobs-29k/)
 - [美国消费突然降温，为什么不能直接押注降息？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-15-us-retail-sales-fed/)
 - [美联储加息后还要再加？股市、房贷和趋势交易怎么看](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-23-fed-hike-next-steps/)
 - [英伟达5000亿美元融资计划：谁出钱、谁借钱、谁最后还钱？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-11-nvidia-ai-financing/)
