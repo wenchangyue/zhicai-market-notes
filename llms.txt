@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-10-07
+更新日期：2026-10-08
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -67,4 +67,5 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [英伟达5000亿美元融资计划：谁出钱、谁借钱、谁最后还钱？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-11-nvidia-ai-financing/)
 - [被止损后还能再买回来吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/stop-and-reentry/)
 - [谷歌最新财报：净利润涨近300%，股价却跌了，钱都烧哪了](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-22-google-q2-earnings/)
+- [贝莱德IALT一年收0.99%，值不值？这笔管理费买的是和股市不完全同步](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-08-ialt-systematic-alts-etf/)
 <!-- AUTO-COMPANION-PAGES:END -->
