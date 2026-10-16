@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-10-14
+更新日期：2026-10-15
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -45,6 +45,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [中央财政首次给房贷贴息：月供少两成，房价能止跌吗](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-29-china-mortgage-subsidy/)
 - [全世界 All in AI：它真是第四次工业革命吗？科技树点错了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-14-ai-fourth-industrial-revolution/)
 - [内存暴跌全解析｜闪迪一年55倍一个月腰斩，韩国36万户爆仓，杀到哪算完？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-29-memory-deleveraging/)
+- [利弗莫尔：传说1929年做空赚了一亿，《时代》却说股灾打垮了他｜交易高手档案01](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-15-jesse-livermore/)
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 - [四家联储要求加息：美联储真的转鹰了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/fed-discount-rate-votes/)
 - [存储芯片ETF半年做到259亿美元、净值翻倍：你买的是AI成长，还是周期顶？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-11-dram-memory-etf/)
