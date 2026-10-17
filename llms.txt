@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-10-15
+更新日期：2026-10-16
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -31,6 +31,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [AIR（AAR）登顶趋势筛选：不造飞机，它靠卖零件和维修赚钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-17-air-vcp-pp/)
 - [AI扩建电网，谁来付账？美国众院法案背后的投资逻辑](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-20-ai-power-costs/)
 - [ASTS 两个月腰斩：手机直连卫星的真实财务、和星链的差距、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-20-asts-deep-dive/)
+- [CoreWeave 债券收益率一度超15%：AI 不缺生意，缺的是便宜的钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-16-coreweave-debt/)
 - [ETON财报后盘后涨24%：为什么持有和新买是两道题？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-13-eton-earnings-gap/)
 - [IBM 一天跌 25%，英伟达没动，到底谁的钱被拿走了？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-15-ibm-crash-storage-pullback/)
 - [JEPI分红8%，为什么比标普少赚一大截？高分红ETF的钱从哪来](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-09-high-dividend-etf-jepi-schd/)
