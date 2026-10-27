@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-10-25
+更新日期：2026-10-26
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -50,6 +50,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [全世界 All in AI：它真是第四次工业革命吗？科技树点错了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-14-ai-fourth-industrial-revolution/)
 - [内存暴跌全解析｜闪迪一年55倍一个月腰斩，韩国36万户爆仓，杀到哪算完？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-29-memory-deleveraging/)
 - [利弗莫尔：传说1929年做空赚了一亿，《时代》却说股灾打垮了他｜交易高手档案01](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-15-jesse-livermore/)
+- [卢拉逆袭、巴西股市一天跌近 14%：民调五五开，价格却押了一边](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-26-brazil-lula-market-shock/)
 - [只买美国赢了十年，这个规律会反过来吗？11只全球、国际、新兴市场与美国ETF分红复投全对比｜ETF复利账本02](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-17-etf-us-vs-global/)
 - [周末突发利空，长期投资者要不要抄底？](https://wenchangyue.github.io/zhicai-market-notes/episodes/long-term-news-noise/)
 - [四家联储要求加息：美联储真的转鹰了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/fed-discount-rate-votes/)
