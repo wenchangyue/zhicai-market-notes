@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-10-29
+更新日期：2026-10-30
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -81,6 +81,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [美联储加息后还要再加？股市、房贷和趋势交易怎么看](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-23-fed-hike-next-steps/)
 - [美股12月起23小时交易：夜里能交易，值得在夜里交易吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-03-us-23-hour-trading/)
 - [英伟达5000亿美元融资计划：谁出钱、谁借钱、谁最后还钱？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-11-nvidia-ai-financing/)
+- [英特尔营收涨两成、股价一天跌近三成：AI 抢走了内存，明年还要多花钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-30-intel-cash-flow-crash/)
 - [被止损后还能再买回来吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/stop-and-reentry/)
 - [谷歌云收入翻倍、股价盘后大跌：自由现金流转负，股东从拿钱变成出钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-28-alphabet-cash-flow/)
 - [谷歌最新财报：净利润涨近300%，股价却跌了，钱都烧哪了](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-22-google-q2-earnings/)
