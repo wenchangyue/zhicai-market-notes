@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-11-09
+更新日期：2026-11-10
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -73,6 +73,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [戴尔AI服务器订单609亿美元：利润真变厚了吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-01-dell-ai-server-orders/)
 - [新闻没改趋势，为什么周一也别急着买？](https://wenchangyue.github.io/zhicai-market-notes/episodes/weekend-news-entry-point/)
 - [日内交易能赚钱吗？坚持 300 天的人里 97% 亏钱，别把它当饭碗](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-04-day-trading/)
+- [止损设多少合适？跌8%就卖，一个月内特斯拉近六成被打掉，可口可乐只有6%](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-10-stop-loss/)
 - [比特币为何大涨？监管新进展、ETF回流，反弹还能持续吗](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-19-crypto-rally-outlook/)
 - [比特币突破7.5万美元：谁在买？加密为什么突然涨这么多](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-21-crypto-rally-drivers/)
 - [民主党横扫，道指大涨三个点：市场押特朗普收手，可他还没答应](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-04-midterm-oil-ai/)
