@@ -110,6 +110,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [股价创历史新高还能买吗？标普500七十多年数据：新高后一年和平时一样，个股先问凭什么](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-16-all-time-high/)
 - [股票回购是好事吗？英特尔高价买回、低价卖出，英伟达花九百多亿美元股数只少2%](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-09-stock-buyback/)
 - [英伟达5000亿美元融资计划：谁出钱、谁借钱、谁最后还钱？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-11-nvidia-ai-financing/)
+- [英伟达财报解读：营收翻倍还超预期，为什么不算错杀？英伟达开始替客户垫钱，1180亿担保写在财报里](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-17-nvidia-q3-fy27-earnings/)
 - [英特尔营收涨两成、股价一天跌近三成：AI 抢走了内存，明年还要多花钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-30-intel-cash-flow-crash/)
 - [董事会据报要换掉黄仁勋，英伟达盘后跌近9%：没有他，英伟达还值这个价吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-11-nvidia-board-oust/)
 - [融资买股票，跌多少会被强平？借一半，跌三分之一券商就能替你卖](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-11-margin-trading/)
