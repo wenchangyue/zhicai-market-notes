@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-11-16
+更新日期：2026-11-17
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -41,6 +41,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [JEPI分红8%，为什么比标普少赚一大截？高分红ETF的钱从哪来](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-09-high-dividend-etf-jepi-schd/)
 - [KNSA深度分析：收入涨55%，利润为什么要分一半？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-02-knsa-deep-dive/)
 - [KRYS 一年三倍还创新高：一家真赚钱的基因治疗公司，为什么价格只能当参考](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-21-krys-deep-dive/)
+- [MACD金叉能买吗？76年标普数据：金叉买死叉卖，比一直拿着少赚一大截](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-17-macd-golden-cross/)
 - [Meta 现金流转负，还要发不能投票的新股：要钱，不交权](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-21-meta-class-c/)
 - [OpenAI 暂停最强模型训练：“全网植入自我复制提示词”说过头了，AI 算力链会被打断吗](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-27-openai-training-pause/)
 - [RSI指标怎么用？跌破30就该抄底吗？33年数据：超买不用卖，超卖别急着抄底](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-14-rsi-indicator/)
