@@ -32,6 +32,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [AI 开源大战全是生意｜喊开源的、死不开的、卖铲子的，各打什么算盘](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-25-open-vs-closed-ai/)
 - [AIR（AAR）登顶趋势筛选：不造飞机，它靠卖零件和维修赚钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-17-air-vcp-pp/)
 - [AI扩建电网，谁来付账？美国众院法案背后的投资逻辑](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-09-20-ai-power-costs/)
+- [Anthropic上市首日涨34%又回吐一半，AI泡沫要破了吗？招股书里藏着9000亿美元算力账单](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-19-anthropic-ipo-day-one/)
 - [ASTS 两个月腰斩：手机直连卫星的真实财务、和星链的差距、普通人怎么办](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-07-20-asts-deep-dive/)
 - [Bloom Energy 营收翻倍、股价一天跌一成：利润记在账上，现金还没进门](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-25-bloom-energy/)
 - [BNF：乌龙指一天赚二十多亿是运气，饭碗是算清跌多深会反弹（交易高手档案 05）](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-29-bnf-kotegawa/)
