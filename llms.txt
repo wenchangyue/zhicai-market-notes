@@ -122,6 +122,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [股票回购是好事吗？英特尔高价买回、低价卖出，英伟达花九百多亿美元股数只少2%](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-09-stock-buyback/)
 - [腾讯财报：元宝没成、WorkBuddy成了，AI一个季度少赚150亿，这笔投入值不值？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-19-tencent-ai-workbuddy/)
 - [英伟达5000亿美元融资计划：谁出钱、谁借钱、谁最后还钱？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-11-nvidia-ai-financing/)
+- [英伟达被SEC查账、季报推迟，一天跌14%，股票还能拿吗？2006年它也被查过，股价涨了五成](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-21-nvidia-sec-accounting-probe/)
 - [英伟达财报解读：营收翻倍还超预期，为什么不算错杀？英伟达开始替客户垫钱，1180亿担保写在财报里](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-17-nvidia-q3-fy27-earnings/)
 - [英特尔营收涨两成、股价一天跌近三成：AI 抢走了内存，明年还要多花钱](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-30-intel-cash-flow-crash/)
 - [董事会据报要换掉黄仁勋，英伟达盘后跌近9%：没有他，英伟达还值这个价吗？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-11-nvidia-board-oust/)
