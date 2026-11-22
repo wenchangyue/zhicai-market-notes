@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-11-21
+更新日期：2026-11-22
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -118,6 +118,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [美股大跌这周，财政部借了一笔9天的钱：美元要闹钱荒了吗？9天债不是信号，逆回购缓冲只剩4亿才是](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-20-nine-day-tbill-liquidity/)
 - [美股大跌，恐慌指数VIX一周从19涨到28，在怕什么？芯片领跌、白银一个月跌两成多：怕的是加息压估值，经济还没出事](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-20-vix-fear-selloff/)
 - [美股有圣诞行情吗？标普76年数据：四年里三年会涨，却连续三年没来，不值得为它加仓](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-20-santa-claus-rally/)
+- [美股跌了一成会变成熊市吗？标普1950年以来26次回调：有衰退七成成熊市，没衰退只有四分之一](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-22-correction-vs-bear-market/)
 - [股价创历史新高还能买吗？标普500七十多年数据：新高后一年和平时一样，个股先问凭什么](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-16-all-time-high/)
 - [股票回购是好事吗？英特尔高价买回、低价卖出，英伟达花九百多亿美元股数只少2%](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-09-stock-buyback/)
 - [腾讯财报：元宝没成、WorkBuddy成了，AI一个季度少赚150亿，这笔投入值不值？](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-19-tencent-ai-workbuddy/)
