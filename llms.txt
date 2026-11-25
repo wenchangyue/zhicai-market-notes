@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 作者：Wenchang Yue（老岳）
 语言：简体中文
-更新日期：2026-11-24
+更新日期：2026-11-25
 ## 主要页面
 
 - [趋势交易、AI 与风险控制](https://wenchangyue.github.io/zhicai-market-notes/trend-trading/)
@@ -81,6 +81,7 @@ YouTube：https://www.youtube.com/channel/UCJzXJ6OJCOLtK4OvHvjd7EA
 - [市盈率低就是便宜吗？美光只有十倍，周期股倍数最低时利润正在顶上](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-05-pe-ratio/)
 - [布林带怎么用？碰下轨买、碰上轨卖，胜率八成却跑输一直拿着：标普76年数据](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-18-bollinger-bands/)
 - [德鲁肯米勒离开股市、做空铜，你要跟着卖吗？标普20年错过最好10天，钱少一半还多](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-18-druckenmiller-sidelines/)
+- [恐慌指数VIX是什么？VIX过30就该抄底吗：1990年以来20次，一年后平均不如随便哪天买](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-25-vix-above-30/)
 - [恐慌指数VIX是什么？破30能抄底吗？第一次破30就买，胜算并不比随便一天高](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-11-06-vix-fear-index/)
 - [成长连赢十年，今年轮到价值了吗？成长赢在利润，代价是押注几家巨头](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-10-24-etf-growth-vs-value/)
 - [我同一天买了两只股票，一只按系统，一只按逻辑｜实盘拆解 NTAP 与海力士](https://wenchangyue.github.io/zhicai-market-notes/episodes/2026-08-04-two-buys/)
